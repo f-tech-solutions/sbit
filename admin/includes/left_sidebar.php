@@ -19,17 +19,22 @@
 					</li>
 					<li>
 						<a href="department.php" class="dropdown-toggle no-arrow">
-							<span class="micon dw dw-calendar1"></span><span class="mtext">Department</span>
+							<span class="micon dw dw-building"></span><span class="mtext">Department</span>
+						</a>
+					</li>
+					<li>
+						<a href="attendance.php" class="dropdown-toggle no-arrow">
+							<span class="micon dw dw-calendar1"></span><span class="mtext">Daily Attendance</span>
 						</a>
 					</li>
 					<li>
 						<a href="leave_type.php" class="dropdown-toggle no-arrow">
-							<span class="micon dw dw-calendar1"></span><span class="mtext">Request Type</span>
+							<span class="micon dw dw-request"></span><span class="mtext">Request Type</span>
 						</a>
 					</li>
 					<li class="dropdown">
 						<a href="javascript:;" class="dropdown-toggle">
-							<span class="micon dw dw-library"></span><span class="mtext">Student</span>
+							<span class="micon dw dw-library"></span><span class="mtext">Staff</span>
 						</a>
 						<ul class="submenu">
 							<li><a href="add_student.php">New Staff</a></li>
@@ -46,18 +51,6 @@
 							<li><a href="approved_leave.php">Approved Leave</a></li>
 							<li><a href="rejected_leave.php">Rejected Leave</a></li>
 						</ul>
-					</li>
-
-					<li>
-						<div class="dropdown-divider"></div>
-					</li>
-					<li>
-						<div class="sidebar-small-cap">Extra</div>
-					</li>
-					<li>
-						<a href="https://kpro.netlify.app/" class="dropdown-toggle no-arrow">
-							<span class="micon dw dw-edit-2"></span><span class="mtext">Visit Us</span>
-						</a>
 					</li>
 				</ul>
 			</div>
