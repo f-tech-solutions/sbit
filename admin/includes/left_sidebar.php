@@ -22,11 +22,7 @@
 							<span class="micon dw dw-building"></span><span class="mtext">Department</span>
 						</a>
 					</li>
-					<li>
-						<a href="attendance.php" class="dropdown-toggle no-arrow">
-							<span class="micon dw dw-calendar1"></span><span class="mtext">Daily Attendance</span>
-						</a>
-					</li>
+					
 					<li>
 						<a href="leave_type.php" class="dropdown-toggle no-arrow">
 							<span class="micon dw dw-request"></span><span class="mtext">Request Type</span>
