@@ -17,6 +17,11 @@
 						</a>
 						
 					</li>
+					<li>
+						<a href="attendance.php" class="dropdown-toggle no-arrow">
+							<span class="micon dw dw-calendar1"></span><span class="mtext">Daily Attendance</span>
+						</a>
+					</li>
 					<li class="dropdown">
 						<a href="javascript:;" class="dropdown-toggle">
 							<span class="micon dw dw-library"></span><span class="mtext">Student</span>

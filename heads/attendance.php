@@ -42,8 +42,57 @@
 							</div>
 						</div>
 					</div>
+					<div class="pd-20 card-box mb-30">
+					<div class="clearfix">
+						<div class="pull-left">
+							<h4 class="text-blue h4">Upload Attendance</h4>
+							<p class="mb-20"></p>
+						</div>
+					</div>
+					<div class="wizard-content">
+						<form method="post" action="">
+							<section>
+							<form enctype = "multipart/form-data">
+								<input id = "upload" type = file name = "files[]">
+								<br> <br>
+							</form>
+							
+								</div>
+							</section>
+						</form>
+					</div>
+				</div>
 
-					<!-- upload button container here -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 				</div>
 
