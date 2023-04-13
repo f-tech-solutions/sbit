@@ -148,7 +148,7 @@
 						<div class="d-flex justify-content-between pb-10">
 							<div class="h5 mb-0">Department Heads</div>
 							<div class="table-actions">
-								<a title="VIEW" href="Student.php"><i class="icon-copy ion-disc" data-color="#17a2b8"></i></a>	
+								<a title="VIEW" href="Staff.php"><i class="icon-copy ion-disc" data-color="#17a2b8"></i></a>	
 							</div>
 						</div>
 						<div class="user-list">

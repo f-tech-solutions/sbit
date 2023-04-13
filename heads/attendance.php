@@ -56,10 +56,13 @@
 								<input id = "upload" type = file name = "files[]">
 								<br> <br>
 							</form>
-							
+							<div class="form-group">
+								<label style="font-size:16px;"><b></b></label>
+								<div class="modal-footer justify-content-center">
+									<button class="btn btn-primary" name="submit" id="submit" data-toggle="modal">Submit</button>
 								</div>
-							</section>
-						</form>
+							</div>
+					</div>
 					</div>
 				</div>
 
