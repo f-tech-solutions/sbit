@@ -40,10 +40,6 @@
 							<li><a href="pending_leave.php">Pending Leave</a></li>
 							<li><a href="approved_leave.php">Approved Leave</a></li>
 							<li><a href="rejected_leave.php">Rejected Leave</a></li>
-							<li><a href="apply_leave.php">Apply Leave</a></li>
-							<li><a href="leave_history.php">Leave History</a></li>
-
-							
 						</ul>
 					</li>
 
